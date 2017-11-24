@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "BOU Charts",
+  "id": "grafana-bouchart-panel",
+
+  "info": {
+    "description": "Customized charts for grafana panel.",
+    "author": {
+      "name": "BeOnUp.",
+      "url": "http://beonup.com.br"
+    },
+    "keywords": ["charts", "panel"],
+    "version": "1.0.0",
+    "updated": "2017-11-24"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "4.x.x",
+    "plugins": [ ]
+  }
+}
